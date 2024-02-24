@@ -1,0 +1,17 @@
+{
+  "model": "custom",
+  "model-primitives":	{
+    "aabbs":[
+      [0.0, 0.0, 0.0, 1.0, 1.0, 1.0, "stairs_side_left","stairs_side_right","planks","stairs_top","planks","stairs_front"],
+    ],
+    "tetragons":[
+      #   left-bottom,  X*width,     Y*height,     texture
+[0.0,0.5,1.0, 1.0,0.0,0.0, 0.0,0.0,-1.0, "stairs_front"],
+[0.0,0.0,0.5, 1.0,0.0,0.0, 0.0,1.0, 0.0, "stairs_top"]
+]
+},
+"hitbox": [0.0, 0.0, 0.0, 1.0, 1.0, 1.0],
+"light-passing": true,
+"sky-light-passing": true,
+"rotation": "pane"
+}
