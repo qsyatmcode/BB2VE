@@ -2,7 +2,7 @@
 [![Download BB2VE](https://img.shields.io/sourceforge/dt/bb2ve.svg)](https://sourceforge.net/projects/bb2ve/files/latest/download)
 ![Static Badge](https://img.shields.io/badge/qsyatmcode-BB2VE-BB2VE)
 
- A small converter of models from Blockbench to [MihailRis's  Voxel Editor](https://github.com/MihailRis/VoxelEngine-Cpp)
+ A small converter of models from Blockbench to [MihailRis's  Voxel Engine](https://github.com/MihailRis/VoxelEngine-Cpp)
 
  
 ![Screenshot 2024-02-25 025745](https://github.com/qsyatmcode/BB2VE/assets/90399477/a9d332cb-695a-476b-a202-7efd595d2789)
